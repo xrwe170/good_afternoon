@@ -1,0 +1,549 @@
+2019-12-13 17:18:40 pid:4292 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-01-09 17:18:31 pid:4294 Workerman[start.php] stopping ...
+2020-01-10 11:13:41 pid:1967 Workerman[start.php] start in DEBUG mode
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] stopping ...
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] has been stopped
+2020-01-10 11:26:55 pid:2425 Workerman[start.php] start in DAEMON mode
+2020-01-10 16:50:37 pid:2427 Workerman[start.php] stopping ...
+2020-03-03 10:45:55 pid:5063 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] already running
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop 
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] is stoping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] stopping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] has been stopped
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop success
+2020-03-03 11:11:06 pid:8360 Workerman[start.php] start in DAEMON mode
+2020-03-10 18:09:41 pid:2390 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 18:26:42 pid:2084 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:29:50 pid:2387 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] already running
+2020-03-10 20:13:33 pid:2053 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-23 12:46:05 pid:3025 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 16:05:07 pid:29137 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 20:46:15 pid:4194 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:35:26 pid:4196 Workerman[start.php] stopping ...
+2020-03-24 21:38:15 pid:3344 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] already running
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop 
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] is stoping ...
+2020-03-24 21:48:44 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop fail
+2020-03-24 21:52:44 pid:3401 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:06:21 pid:3403 Workerman[start.php] stopping ...
+2020-03-24 22:18:43 pid:3354 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:33:10 pid:3356 Workerman[start.php] stopping ...
+2020-03-24 22:44:28 pid:4882 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 06:57:54 pid:21099 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] already running
+2020-03-29 07:17:02 pid:3570 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:09:28 pid:23572 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:58:16 pid:5566 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] already running
+2020-03-30 10:27:53 pid:19998 Workerman[start.php] start in DAEMON mode
+2020-03-30 16:02:34 pid:3904 Workerman[start.php] start in DAEMON mode
+2020-03-30 18:14:41 pid:4006 Workerman[start.php] start in DAEMON mode
+2020-04-01 17:32:30 pid:7810 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] already running
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop 
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] is stoping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] stopping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] has been stopped
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop success
+2020-04-01 17:44:42 pid:11291 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] stopping ...
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] has been stopped
+2020-04-01 17:45:05 pid:11404 Workerman[start.php] start in DAEMON mode
+2020-07-22 16:15:42 pid:3755 Workerman[start.php] start in DAEMON mode
+2020-07-22 16:15:43 pid:3781 Workerman[start.php] start in DEBUG mode
+2020-07-22 16:15:43 pid:3781 Workerman[start.php] already running
+2020-07-22 17:47:39 pid:3757 Workerman[start.php] stopping ...
+2020-07-22 17:48:27 pid:2698 Workerman[start.php] start in DAEMON mode
+2020-07-22 17:48:28 pid:2740 Workerman[start.php] start in DEBUG mode
+2020-07-22 17:48:28 pid:2740 Workerman[start.php] already running
+2020-07-22 20:56:18 pid:2700 Workerman[start.php] stopping ...
+2020-07-22 20:59:56 pid:2702 Workerman[start.php] start in DAEMON mode
+2020-07-22 20:59:56 pid:2746 Workerman[start.php] start in DEBUG mode
+2020-07-22 20:59:56 pid:2746 Workerman[start.php] already running
+2020-07-22 21:26:06 pid:3480 Workerman[start.php] start in DEBUG mode
+2020-07-22 21:26:06 pid:3480 Workerman[start.php] already running
+2020-07-23 13:36:24 pid:2729 Workerman[start.php] start in DAEMON mode
+2020-07-28 11:19:19 pid:2737 Workerman[start.php] stopping ...
+2020-07-28 11:20:33 pid:2704 Workerman[start.php] start in DAEMON mode
+2020-07-28 11:20:34 pid:2748 Workerman[start.php] start in DEBUG mode
+2020-07-28 11:20:34 pid:2748 Workerman[start.php] already running
+2020-07-28 19:19:21 pid:2706 Workerman[start.php] stopping ...
+2020-07-28 19:20:31 pid:2712 Workerman[start.php] start in DAEMON mode
+2020-07-28 19:20:31 pid:2712 Workerman[start.php] already running
+2020-07-28 19:20:32 pid:2751 Workerman[start.php] start in DEBUG mode
+2020-07-28 19:56:16 pid:3435 Workerman[start.php] start in DEBUG mode
+2020-07-28 19:56:16 pid:3435 Workerman[start.php] already running
+2020-08-03 01:30:02 pid:5780 Workerman[start.php] start in DAEMON mode
+2020-08-03 01:30:02 pid:5780 Workerman[start.php] already running
+2020-08-03 01:30:02 pid:5799 Workerman[start.php] start in DEBUG mode
+2020-08-03 01:30:02 pid:5799 Workerman[start.php] already running
+2020-08-12 17:58:19 pid:10590 Workerman[start.php] start in DAEMON mode
+2020-08-12 17:58:20 pid:10610 Workerman[start.php] start in DEBUG mode
+2020-08-12 17:58:20 pid:10610 Workerman[start.php] already running
+2020-08-22 17:11:29 pid:10594 Workerman[start.php] stopping ...
+2020-08-22 17:18:52 pid:3128 Workerman[start.php] start in DAEMON mode
+2020-08-22 17:18:53 pid:3148 Workerman[start.php] start in DEBUG mode
+2020-08-22 17:18:53 pid:3148 Workerman[start.php] already running
+2020-08-23 20:01:05 pid:2803 Workerman[start.php] start in DEBUG mode
+2020-08-23 20:01:05 pid:2802 Workerman[start.php] start in DAEMON mode
+2020-09-01 01:30:03 pid:6175 Workerman[start.php] start in DAEMON mode
+2020-09-01 01:30:03 pid:6171 Workerman[start.php] start in DEBUG mode
+2020-09-01 01:30:03 pid:6171 Workerman[start.php] already running
+2020-09-01 01:30:03 pid:6175 Workerman[start.php] already running
+2020-09-05 10:07:02 pid:24887 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-09-06 13:34:35 pid:8444 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-02 18:07:38 pid:59875 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-06 13:54:55 pid:2564 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-07 17:35:40 pid:2566 Workerman[start.php] stopping ...
+2020-10-07 17:37:54 pid:3008 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-08 14:22:48 pid:3769 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-08 15:40:03 pid:2650 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-08 15:42:58 pid:2842 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-08 15:45:13 pid:3094 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-09 16:10:07 pid:2893 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-09 17:54:40 pid:2901 Workerman[start.php] stopping ...
+2020-10-09 17:56:09 pid:2933 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-09 17:59:11 pid:2922 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-09 18:02:18 pid:3180 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-14 20:45:35 pid:3184 Error: Call to a member function send() on null in /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #38386)
+#11 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/gamebtc.io/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2020-10-14 20:45:35 pid:3184 Worker process terminated
+2020-10-14 20:45:36 pid:3183 worker[PHPSocketIO:3184] exit with status 64000
+2020-10-19 08:16:26 pid:3237 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-20 00:21:35 pid:3242 Workerman[start.php] stopping ...
+2020-10-20 00:38:45 pid:3159 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-10-21 20:28:11 pid:3162 Error: Call to a member function send() on null in /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #25956)
+#11 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/154.92.14.49/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2020-10-21 20:28:11 pid:3162 Worker process terminated
+2020-10-21 20:28:11 pid:3161 worker[PHPSocketIO:3162] exit with status 64000
+2020-11-03 22:17:53 pid:3161 Workerman[start.php] stopping ...
+2020-11-03 22:20:21 pid:2830 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-10 01:22:14 pid:3196 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-10 01:22:14 pid:3196 Workerman[public/vendor/webmsgsender/start.php] already running
+2020-11-10 01:22:33 pid:3278 Workerman[public/vendor/webmsgsender/start.php] stop 
+2020-11-10 01:22:33 pid:3278 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2020-11-10 01:22:34 pid:3278 Workerman[public/vendor/webmsgsender/start.php] stop success
+2020-11-10 01:22:36 pid:3292 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-10 01:25:01 pid:3313 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-10 01:25:01 pid:3313 Workerman[public/vendor/webmsgsender/start.php] already running
+2020-11-10 01:25:45 pid:3905 Workerman[public/vendor/webmsgsender/start.php] stop 
+2020-11-10 01:25:45 pid:3905 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2020-11-10 01:25:45 pid:3905 Workerman[public/vendor/webmsgsender/start.php] stop success
+2020-11-10 01:28:28 pid:23248 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-10 01:35:09 pid:2780 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-19 17:40:47 pid:2545 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-11-29 21:08:29 pid:2581 Workerman[start.php] stopping ...
+2020-12-04 16:20:28 pid:2535 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-12-04 16:24:04 pid:2792 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-12-24 23:28:36 pid:2775 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-01-19 14:04:54 pid:2546 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-04 18:05:13 pid:2823 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-04 18:55:14 pid:4476 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-04 18:55:14 pid:4476 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-03-05 21:46:03 pid:2418 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-06 00:30:51 pid:5909 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-06 00:30:51 pid:5909 Workerman[public/vendor/webmsgsender/start.php] already running
+2021-03-06 00:30:55 pid:5916 Workerman[public/vendor/webmsgsender/start.php] stop 
+2021-03-06 00:30:55 pid:5916 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2021-03-06 00:30:55 pid:2420 Workerman[start.php] stopping ...
+2021-03-06 00:30:55 pid:2420 Workerman[start.php] has been stopped
+2021-03-06 00:30:55 pid:5916 Workerman[public/vendor/webmsgsender/start.php] stop success
+2021-03-06 00:30:57 pid:5919 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-06 00:45:54 pid:7109 Workerman[start.php] stop 
+2021-03-06 00:45:54 pid:7109 Workerman[start.php] is stoping ...
+2021-03-06 00:45:54 pid:5921 Workerman[start.php] stopping ...
+2021-03-06 00:45:54 pid:5921 Workerman[start.php] has been stopped
+2021-03-06 00:45:54 pid:7109 Workerman[start.php] stop success
+2021-03-06 00:45:58 pid:7112 Workerman[start.php] start in DAEMON mode
+2021-03-06 00:49:43 pid:2903 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-03-06 21:15:49 pid:2676 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2021-07-04 00:10:39 pid:28411 Workerman[start.php] start in DAEMON mode
+2021-07-27 02:32:14 pid:3460 Workerman[start.php] start in DAEMON mode
+2021-07-27 02:40:15 pid:3462 Workerman[start.php] stopping ...
+2021-07-27 02:45:48 pid:4352 Workerman[start.php] start in DAEMON mode
+2021-07-27 17:40:36 pid:4354 Workerman[start.php] stopping ...
+2021-07-27 17:49:10 pid:5295 Workerman[start.php] start in DAEMON mode
+2021-07-27 18:10:16 pid:5297 Workerman[start.php] stopping ...
+2021-07-27 18:14:02 pid:4015 Workerman[start.php] start in DAEMON mode
+2021-08-10 14:19:09 pid:17520 Workerman[start.php] start in DAEMON mode
+2021-08-10 14:22:18 pid:17522 Workerman[start.php] stopping ...
+2021-08-10 14:46:09 pid:14890 Workerman[start.php] start in DAEMON mode
+2021-08-10 15:14:32 pid:14781 Workerman[start.php] start in DAEMON mode
+2021-08-10 15:21:48 pid:20386 Workerman[start.php] start in DAEMON mode
+2021-08-10 15:21:48 pid:20386 Workerman[start.php] already running
+2021-08-10 15:25:11 pid:14785 Workerman[start.php] start in DAEMON mode
+2021-08-10 15:54:04 pid:19851 Workerman[start.php] start in DAEMON mode
+2021-08-10 16:02:53 pid:14715 Workerman[start.php] start in DAEMON mode
+2021-09-06 16:01:03 pid:17985 Workerman[start.php] start in DAEMON mode
+2021-09-06 16:08:08 pid:17987 Workerman[start.php] stopping ...
+2021-09-06 16:22:00 pid:15393 Workerman[start.php] start in DAEMON mode
+2021-09-22 12:37:49 pid:502 Workerman[start.php] start in DAEMON mode
+2021-09-22 12:42:52 pid:7036 Workerman[start.php] start in DAEMON mode
+2021-09-22 12:42:52 pid:7036 Workerman[start.php] already running
+2021-09-27 20:41:23 pid:504 Workerman[start.php] stopping ...
+2021-09-27 20:53:59 pid:6213 Workerman[start.php] start in DAEMON mode
+2021-09-27 20:53:59 pid:6213 Workerman[start.php] already running
+2021-09-27 21:23:20 pid:5909 Workerman[start.php] start in DAEMON mode
+2021-10-10 21:50:12 pid:30141 Workerman[start.php] start in DAEMON mode
+2021-10-10 22:45:10 pid:3265 Workerman[start.php] start in DAEMON mode
+2021-11-02 10:04:59 pid:5338 Workerman[start.php] start in DAEMON mode
+2021-11-02 10:47:29 pid:5531 Workerman[start.php] start in DAEMON mode
+2021-11-04 17:14:01 pid:5533 worker[PHPSocketIO:5534] exit with status 9
+2021-11-09 10:21:20 pid:5533 Workerman[start.php] stopping ...
+2021-11-09 10:53:19 pid:13575 Workerman[start.php] start in DAEMON mode
+2021-11-09 10:54:59 pid:13577 Workerman[start.php] stopping ...
+2021-11-09 10:56:32 pid:5450 Workerman[start.php] start in DAEMON mode
+2021-11-10 16:56:55 pid:5951 worker[PHPSocketIO:5952] exit with status 9
+2021-11-10 16:57:08 pid:8225 Workerman[start.php] start in DAEMON mode
+2021-11-10 16:57:40 pid:5951 Workerman[start.php] stopping ...
+2021-11-10 16:59:33 pid:5571 Workerman[start.php] start in DAEMON mode
+2021-11-10 16:59:33 pid:5571 Workerman[start.php] already running
+2021-11-10 16:59:46 pid:5579 Workerman[start.php] start in DAEMON mode
+2021-11-10 16:59:46 pid:5579 Workerman[start.php] already running
+2021-11-10 17:20:22 pid:7733 Workerman[start.php] start in DAEMON mode
+2021-11-10 17:38:43 pid:7735 Workerman[start.php] stopping ...
+2021-11-10 17:40:28 pid:5560 Workerman[start.php] start in DAEMON mode
+2021-11-11 09:26:06 pid:5562 Workerman[start.php] stopping ...
+2021-11-17 12:06:26 pid:5583 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:14:18 pid:5828 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:17:30 pid:6671 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:17:30 pid:6671 Workerman[start.php] already running
+2021-11-17 14:17:47 pid:5830 worker[PHPSocketIO:5831] exit with status 9
+2021-11-17 14:18:00 pid:5830 worker[PHPSocketIO:6684] exit with status 9
+2021-11-17 14:18:13 pid:6745 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:18:13 pid:6745 Workerman[start.php] already running
+2021-11-17 14:27:17 pid:5830 worker[PHPSocketIO:6692] exit with status 9
+2021-11-17 14:28:34 pid:5403 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:29:56 pid:5509 Workerman[start.php] start in DAEMON mode
+2021-11-17 14:29:56 pid:5509 Workerman[start.php] already running
+2021-11-17 14:30:11 pid:5405 worker[PHPSocketIO:5406] exit with status 9
+2021-11-17 14:30:24 pid:5405 Workerman[start.php] stopping ...
+2021-11-17 14:31:04 pid:5363 Workerman[start.php] start in DAEMON mode
+2021-11-18 11:10:04 pid:5365 Workerman[start.php] stopping ...
+2021-11-18 11:10:51 pid:5297 Workerman[start.php] start in DAEMON mode
+2021-11-18 11:36:51 pid:5299 Workerman[start.php] stopping ...
+2021-11-18 11:37:22 pid:5308 Workerman[start.php] start in DAEMON mode
+2021-11-18 11:40:17 pid:5443 Workerman[start.php] start in DAEMON mode
+2021-11-18 11:42:08 pid:5445 Workerman[start.php] stopping ...
+2021-11-18 11:42:42 pid:10478 Workerman[start.php] start in DAEMON mode
+2021-11-18 11:57:24 pid:10514 Workerman[start.php] stopping ...
+2021-11-18 12:00:24 pid:5700 Workerman[start.php] start in DAEMON mode
+2021-11-18 14:09:51 pid:5312 Workerman[start.php] start in DAEMON mode
+2021-11-18 14:53:08 pid:5314 Workerman[start.php] stopping ...
+2021-11-18 14:56:00 pid:5614 Workerman[start.php] start in DAEMON mode
+2021-11-18 15:01:17 pid:5616 worker[PHPSocketIO:5617] exit with status 9
+2021-11-18 15:01:39 pid:6783 Workerman[start.php] stop 
+2021-11-18 15:01:39 pid:6783 Workerman[start.php] is stoping ...
+2021-11-18 15:01:39 pid:5616 Workerman[start.php] stopping ...
+2021-11-18 15:01:39 pid:5616 Workerman[start.php] has been stopped
+2021-11-18 15:01:39 pid:6783 Workerman[start.php] stop success
+2021-11-18 15:01:47 pid:6792 Workerman[start.php] stop 
+2021-11-18 15:01:47 pid:6792 Workerman[start.php] not run
+2021-11-18 15:01:55 pid:6799 Workerman[start.php] start in DAEMON mode
+2021-11-18 15:47:15 pid:11378 Workerman[start.php] stop 
+2021-11-18 15:47:15 pid:11378 Workerman[start.php] is stoping ...
+2021-11-18 15:47:15 pid:6801 Workerman[start.php] stopping ...
+2021-11-18 15:47:15 pid:6801 Workerman[start.php] has been stopped
+2021-11-18 15:47:15 pid:11378 Workerman[start.php] stop success
+2021-11-18 15:48:13 pid:11461 Workerman[start.php] start in DAEMON mode
+2021-11-23 09:50:24 pid:8024 Workerman[start.php] stop 
+2021-11-23 09:50:24 pid:8024 Workerman[start.php] is stoping ...
+2021-11-23 09:50:24 pid:11463 Workerman[start.php] stopping ...
+2021-11-23 09:50:24 pid:11463 Workerman[start.php] has been stopped
+2021-11-23 09:50:24 pid:8024 Workerman[start.php] stop success
+2021-11-23 09:50:32 pid:8045 Workerman[start.php] start in DAEMON mode
+2021-11-24 17:30:44 pid:14439 Workerman[start.php] start in DAEMON mode
+2021-12-07 15:58:23 pid:21565 Workerman[start.php] restart 
+2021-12-07 15:58:23 pid:21565 Workerman[start.php] is stoping ...
+2021-12-07 15:58:23 pid:14441 Workerman[start.php] stopping ...
+2021-12-07 15:58:23 pid:14441 Workerman[start.php] has been stopped
+2021-12-07 15:58:23 pid:21565 Workerman[start.php] stop success
+2021-12-09 18:35:34 pid:21568 Workerman[start.php] stopping ...
+2021-12-09 18:37:02 pid:14498 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:46:30 pid:14697 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:47:21 pid:14816 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:47:29 pid:14836 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:47:29 pid:14836 Workerman[start.php] already running
+2021-12-13 09:47:33 pid:14842 Workerman[start.php] stop 
+2021-12-13 09:47:33 pid:14842 Workerman[start.php] is stoping ...
+2021-12-13 09:47:33 pid:14842 Workerman[start.php] stop success
+2021-12-13 09:47:36 pid:14843 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:47:59 pid:14954 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:48:06 pid:14997 Workerman[start.php] stop 
+2021-12-13 09:48:06 pid:14997 Workerman[start.php] not run
+2021-12-13 09:48:07 pid:14998 Workerman[start.php] stop 
+2021-12-13 09:48:07 pid:14998 Workerman[start.php] not run
+2021-12-13 09:48:08 pid:14999 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:48:23 pid:15097 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:48:25 pid:15100 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:48:28 pid:15104 Workerman[start.php] start in DAEMON mode
+2021-12-13 09:50:19 pid:15283 Workerman[start.php] start in DAEMON mode
+2021-12-13 11:06:26 pid:5421 Workerman[start.php] start in DAEMON mode
+2021-12-20 16:38:15 pid:21782 Workerman[start.php] start in DAEMON mode
+2021-12-20 16:38:15 pid:21782 Workerman[start.php] already running
+2021-12-20 16:38:18 pid:21788 Workerman[start.php] stop 
+2021-12-20 16:38:18 pid:21788 Workerman[start.php] is stoping ...
+2021-12-20 16:38:19 pid:5423 Workerman[start.php] stopping ...
+2021-12-20 16:38:19 pid:5423 Workerman[start.php] has been stopped
+2021-12-20 16:38:19 pid:21788 Workerman[start.php] stop success
+2021-12-20 16:38:20 pid:21792 Workerman[start.php] stop 
+2021-12-20 16:38:20 pid:21792 Workerman[start.php] not run
+2021-12-20 16:38:21 pid:21797 Workerman[start.php] stop 
+2021-12-20 16:38:21 pid:21797 Workerman[start.php] not run
+2021-12-20 16:38:49 pid:21849 Workerman[start.php] start in DAEMON mode
+2021-12-20 16:39:31 pid:21961 Workerman[start.php] stop 
+2021-12-20 16:39:31 pid:21961 Workerman[start.php] is stoping ...
+2021-12-20 16:39:31 pid:21851 Workerman[start.php] stopping ...
+2021-12-20 16:39:31 pid:21851 Workerman[start.php] has been stopped
+2021-12-20 16:39:31 pid:21961 Workerman[start.php] stop success
+2021-12-20 16:40:09 pid:22130 Workerman[start.php] start in DEBUG mode
+2021-12-29 16:16:48 pid:22130 Workerman[start.php] stopping ...
+2021-12-29 16:16:48 pid:22130 Workerman[start.php] has been stopped
+2021-12-29 16:16:49 pid:3542 Workerman[start.php] start in DEBUG mode
+2021-12-31 14:11:12 pid:3859 Workerman[start.php] start in DEBUG mode
+2022-01-03 15:55:26 pid:3859 Workerman[start.php] stopping ...
+2022-01-03 15:55:26 pid:3863 worker[3863] remains 14 connection(s)
+2022-01-03 15:55:26 pid:3863 worker[3863] remains 7 connection(s)
+2022-01-03 15:55:26 pid:3863 worker[3863] remains 0 connection(s)
+2022-01-03 15:55:26 pid:3859 Workerman[start.php] has been stopped
+2022-01-03 15:56:15 pid:3069 Workerman[start.php] start in DEBUG mode
+2022-01-05 19:12:39 pid:3069 Workerman[start.php] stopping ...
+2022-01-05 19:12:39 pid:3069 Workerman[start.php] has been stopped
+2022-01-05 19:13:00 pid:3009 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:34:51 pid:25540 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:34:53 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:55 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:55 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:56 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:56 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:56 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:34:56 pid:25540 Workerman[start.php] stopping ...
+2022-02-18 10:35:21 pid:26131 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:35:26 pid:26131 Workerman[start.php] stopping ...
+2022-02-18 10:35:26 pid:26131 Workerman[start.php] has been stopped
+2022-02-18 10:35:28 pid:26251 Workerman[start.php] start in DAEMON mode
+2022-02-18 10:43:25 pid:30744 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:43:26 pid:30763 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:43:29 pid:30821 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:43:33 pid:30896 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:43:43 pid:31055 Workerman[start.php] stop 
+2022-02-18 10:43:43 pid:31055 Workerman[start.php] is stoping ...
+2022-02-18 10:43:43 pid:26253 Workerman[start.php] stopping ...
+2022-02-18 10:43:43 pid:26253 Workerman[start.php] has been stopped
+2022-02-18 10:43:43 pid:31055 Workerman[start.php] stop success
+2022-02-18 10:43:45 pid:31085 Workerman[start.php] stop 
+2022-02-18 10:43:45 pid:31085 Workerman[start.php] not run
+2022-02-18 10:44:34 pid:32063 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:55:41 pid:2927 Workerman[start.php] start in DEBUG mode
+2022-02-18 10:58:52 pid:2936 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:16:06 pid:2936 Workerman[start.php] stopping ...
+2022-02-18 11:16:19 pid:10718 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:16:21 pid:10734 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:16:23 pid:10740 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:16:26 pid:10753 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:22:20 pid:12412 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:22:21 pid:12418 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:22:23 pid:12419 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:22:26 pid:12449 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:23:02 pid:12594 Workerman[start.php] stop 
+2022-02-18 11:23:02 pid:12594 Workerman[start.php] not run
+2022-02-18 11:23:20 pid:12701 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:23:21 pid:12704 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:23:24 pid:12711 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:23:27 pid:12721 Workerman[start.php] start in DEBUG mode
+2022-02-18 11:23:32 pid:2937 worker[2937] remains 8 connection(s)
+2022-02-18 11:23:32 pid:2937 worker[2937] remains 4 connection(s)
+2022-02-18 11:23:33 pid:2937 worker[2937] remains 0 connection(s)
+                                                                      2022-02-18 11:24:48 pid:2916 Workerman[start.php] start in DEBUG mode
+2022-03-02 16:28:31 pid:2916 Workerman[start.php] stopping ...
+2022-03-02 16:28:31 pid:2917 worker[2917] remains 10 connection(s)
+2022-03-02 16:28:31 pid:2916 Workerman[start.php] stopping ...
+2022-03-02 16:28:31 pid:2917 worker[2917] remains 5 connection(s)
+2022-03-02 16:28:32 pid:2917 worker[2917] remains 0 connection(s)
+2022-03-02 16:28:32 pid:2916 Workerman[start.php] has been stopped
+2022-03-02 16:28:57 pid:3014 Workerman[start.php] start in DEBUG mode
+2022-03-02 16:40:57 pid:3014 Workerman[start.php] stopping ...
+2022-03-02 16:40:57 pid:3014 Workerman[start.php] stopping ...
+2022-03-02 16:40:57 pid:3015 worker[3015] remains 10 connection(s)
+2022-03-02 16:40:57 pid:3015 worker[3015] remains 5 connection(s)
+2022-03-02 16:40:57 pid:3015 worker[3015] remains 0 connection(s)
+2022-03-02 16:40:57 pid:3014 Workerman[start.php] has been stopped
+2022-03-02 16:41:22 pid:3011 Workerman[start.php] start in DEBUG mode
+2022-03-02 16:43:06 pid:3011 Workerman[start.php] stopping ...
+2022-03-02 16:43:06 pid:3011 Workerman[start.php] stopping ...
+2022-03-02 16:43:06 pid:3012 worker[3012] remains 10 connection(s)
+2022-03-02 16:43:06 pid:3012 worker[3012] remains 5 connection(s)
+2022-03-02 16:43:06 pid:3012 worker[3012] remains 0 connection(s)
+2022-03-02 16:43:06 pid:3011 Workerman[start.php] has been stopped
+2022-03-02 16:43:28 pid:2905 Workerman[start.php] start in DEBUG mode
+2022-03-10 16:02:16 pid:2824 Workerman[start.php] start in DEBUG mode
+2022-03-10 20:05:55 pid:2824 Workerman[start.php] stopping ...
+2022-03-10 20:06:07 pid:21565 Workerman[start.php] start in DEBUG mode
+2022-03-10 20:06:09 pid:21570 Workerman[start.php] start in DEBUG mode
+2022-03-10 20:06:12 pid:21577 Workerman[start.php] start in DEBUG mode
+2022-03-10 20:06:16 pid:21602 Workerman[start.php] start in DEBUG mode
+2022-03-10 20:06:42 pid:21684 Workerman[start.php] start in DEBUG mode
+2022-03-17 18:13:22 pid:21685 Error: Call to a member function send() on null in /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #2247)
+#11 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/www.gmogmo.com/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2022-03-17 18:13:22 pid:21685 Worker process terminated
+2022-03-17 18:13:22 pid:21684 worker[PHPSocketIO:21685] exit with status 64000
+2022-03-20 23:03:22 pid:26844 Workerman[start.php] restart 
+2022-03-20 23:03:22 pid:26844 Workerman[start.php] is stoping ...
+2022-03-20 23:03:22 pid:26844 Workerman[start.php] stop success
+2022-03-20 23:09:00 pid:32419 Workerman[start.php] restart 
+2022-03-20 23:09:00 pid:32419 Workerman[start.php] is stoping ...
+2022-03-20 23:09:00 pid:26844 Workerman[start.php] stopping ...
+2022-03-20 23:09:00 pid:26844 Workerman[start.php] has been stopped
+2022-03-20 23:09:00 pid:32419 Workerman[start.php] stop success
+2022-03-20 23:23:15 pid:13187 Workerman[start.php] restart 
+2022-03-20 23:23:15 pid:13187 Workerman[start.php] is stoping ...
+2022-03-20 23:23:15 pid:32419 Workerman[start.php] stopping ...
+2022-03-20 23:23:15 pid:32419 Workerman[start.php] has been stopped
+2022-03-20 23:23:15 pid:13187 Workerman[start.php] stop success
+2022-03-20 23:23:24 pid:13435 Workerman[start.php] restart 
+2022-03-20 23:23:24 pid:13435 Workerman[start.php] is stoping ...
+2022-03-20 23:23:24 pid:13187 Workerman[start.php] stopping ...
+2022-03-20 23:23:24 pid:13187 Workerman[start.php] has been stopped
+2022-03-20 23:23:24 pid:13435 Workerman[start.php] stop success
+2022-03-20 23:30:01 pid:19594 Workerman[start.php] restart 
+2022-03-20 23:30:01 pid:19594 Workerman[start.php] is stoping ...
+2022-03-20 23:30:01 pid:13435 Workerman[start.php] stopping ...
+2022-03-20 23:30:01 pid:13435 Workerman[start.php] has been stopped
+2022-03-20 23:30:01 pid:19594 Workerman[start.php] stop success
+2022-03-21 00:30:01 pid:10113 Workerman[start.php] restart 
+2022-03-21 00:30:01 pid:10113 Workerman[start.php] is stoping ...
+2022-03-21 00:30:01 pid:19594 Workerman[start.php] stopping ...
+2022-03-21 00:30:01 pid:19594 Workerman[start.php] has been stopped
+2022-03-21 00:30:01 pid:10113 Workerman[start.php] stop success
+2022-03-31 10:49:30 pid:26360 Workerman[start.php] restart 
+2022-03-31 10:49:30 pid:26360 Workerman[start.php] is stoping ...
+2022-03-31 10:49:30 pid:26360 Workerman[start.php] stop success
+2022-03-31 10:50:19 pid:26361 Workerman[start.php] restart 
+2022-03-31 10:50:19 pid:26361 Workerman[start.php] is stoping ...
+2022-03-31 10:50:19 pid:26361 Workerman[start.php] stop success
+2022-03-31 10:51:29 pid:26403 Workerman[start.php] restart 
+2022-03-31 10:51:29 pid:26403 Workerman[start.php] is stoping ...
+2022-03-31 10:51:29 pid:26403 Workerman[start.php] stop success
+2022-03-31 10:51:38 pid:26403 Workerman[start.php] stopping ...
+2022-03-31 10:51:38 pid:26403 Workerman[start.php] has been stopped
+2022-03-31 10:51:50 pid:26406 Workerman[start.php] restart 
+2022-03-31 10:51:50 pid:26406 Workerman[start.php] is stoping ...
+2022-03-31 10:51:50 pid:26406 Workerman[start.php] stop success
+2022-03-31 10:51:59 pid:26406 Workerman[start.php] stopping ...
+2022-03-31 10:51:59 pid:26406 Workerman[start.php] has been stopped
+2022-03-31 10:54:10 pid:26478 Workerman[start.php] restart 
+2022-03-31 10:54:10 pid:26478 Workerman[start.php] is stoping ...
+2022-03-31 10:54:10 pid:26478 Workerman[start.php] stop success
+2022-04-12 14:37:50 pid:26478 Workerman[start.php] stopping ...
+2022-04-12 14:46:32 pid:2690 Workerman[start.php] restart 
+2022-04-12 14:46:32 pid:2690 Workerman[start.php] is stoping ...
+2022-04-12 14:46:32 pid:2690 Workerman[start.php] stop success
+2022-04-12 14:54:36 pid:3511 Workerman[start.php] restart 
+2022-04-12 14:54:36 pid:3511 Workerman[start.php] is stoping ...
+2022-04-12 14:54:36 pid:2690 Workerman[start.php] stopping ...
+2022-04-12 14:54:36 pid:2690 Workerman[start.php] has been stopped
+2022-04-12 14:54:36 pid:3511 Workerman[start.php] stop success
+2022-04-12 14:56:28 pid:3633 Workerman[start.php] restart 
+2022-04-12 14:56:28 pid:3633 Workerman[start.php] is stoping ...
+2022-04-12 14:56:28 pid:3511 Workerman[start.php] stopping ...
+2022-04-12 14:56:28 pid:3511 Workerman[start.php] has been stopped
+2022-04-12 14:56:28 pid:3633 Workerman[start.php] stop success
+2022-04-13 10:03:15 pid:7129 Workerman[start.php] restart 
+2022-04-13 10:03:15 pid:7129 Workerman[start.php] is stoping ...
+2022-04-13 10:03:15 pid:3633 Workerman[start.php] stopping ...
+2022-04-13 10:03:15 pid:3633 Workerman[start.php] has been stopped
+2022-04-13 10:03:15 pid:7129 Workerman[start.php] stop success
+2022-04-13 10:03:20 pid:7136 Workerman[start.php] restart 
+2022-04-13 10:03:20 pid:7136 Workerman[start.php] is stoping ...
+2022-04-13 10:03:20 pid:7129 Workerman[start.php] stopping ...
+2022-04-13 10:03:20 pid:7129 Workerman[start.php] has been stopped
+2022-04-13 10:03:20 pid:7136 Workerman[start.php] stop success
+2022-04-13 10:05:18 pid:7286 Workerman[start.php] restart 
+2022-04-13 10:05:18 pid:7286 Workerman[start.php] is stoping ...
+2022-04-13 10:05:18 pid:7136 Workerman[start.php] stopping ...
+2022-04-13 10:05:18 pid:7136 Workerman[start.php] has been stopped
+2022-04-13 10:05:18 pid:7286 Workerman[start.php] stop success
+2022-04-13 10:10:06 pid:7454 Workerman[start.php] restart 
+2022-04-13 10:10:06 pid:7454 Workerman[start.php] is stoping ...
+2022-04-13 10:10:06 pid:7286 Workerman[start.php] stopping ...
+2022-04-13 10:10:06 pid:7286 Workerman[start.php] has been stopped
+2022-04-13 10:10:06 pid:7454 Workerman[start.php] stop success
+2022-04-13 10:14:16 pid:7644 Workerman[start.php] restart 
+2022-04-13 10:14:16 pid:7644 Workerman[start.php] is stoping ...
+2022-04-13 10:14:16 pid:7454 Workerman[start.php] stopping ...
+2022-04-13 10:14:16 pid:7454 Workerman[start.php] has been stopped
+2022-04-13 10:14:16 pid:7644 Workerman[start.php] stop success
+2022-04-13 12:34:00 pid:7644 Workerman[start.php] stopping ...
+2022-04-13 12:34:00 pid:7644 Workerman[start.php] has been stopped
+2022-04-13 12:37:41 pid:2878 Workerman[start.php] restart 
+2022-04-13 12:37:41 pid:2878 Workerman[start.php] is stoping ...
+2022-04-13 12:37:41 pid:2878 Workerman[start.php] stop success
+2022-04-22 23:30:19 pid:28538 Workerman[start.php] restart 
+2022-04-22 23:30:19 pid:28538 Workerman[start.php] is stoping ...
+2022-04-22 23:30:19 pid:28538 Workerman[start.php] stop success
