@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "promise-polyfill": "6.0.2",
-    "tslib": "1.7.1",
+    "tslib": "1.14.1",
     "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
