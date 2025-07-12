@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/YanxinNet/uView#readme",
   "dependencies": {
-    "vue-i18n": "^8.20.0"
+    "vue-i18n": "^8.28.2"
   }
 }
